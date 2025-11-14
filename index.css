@@ -3,6 +3,12 @@
   padding: 0px;
   box-sizing: 0px;
 }
+body{
+    background-image: url("linkdin4.jpeg" );
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 100%;
+}
 .navbar-brand {
     font-size: 35px;
     font-weight: bold;
@@ -11,6 +17,7 @@
 .sub-hedding{
     margin-top: 20px;
     margin-bottom: 20px;
+    color: aliceblue;
 }
 .main-boby{
     display: flex;
